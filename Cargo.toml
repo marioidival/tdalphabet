@@ -8,5 +8,6 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.71"
 bevy = { version = "0.10.1", features = ["dynamic_linking"] }
+bevy_asset_loader = { version = "0.15.0", features = ["2d"] }
 bevy_ecs_tilemap = "0.10.0"
 tiled = "0.11.1"

@@ -62,11 +62,11 @@
     <property name="slot" value="right"/>
    </properties>
   </object>
-  <object id="6" name="start from top" type="enemy_path" x="120.666" y="6.66666">
+  <object id="6" name="start from top" type="enemy_path" x="129.333" y="1.33333">
    <properties>
     <property name="index" type="int" value="0"/>
    </properties>
-   <polyline points="0,0 6.90876,250.438 244.57,282.072 247.334,461.334"/>
+   <polyline points="0,0 6.66667,253.333 236,285.333 238.667,466.667"/>
   </object>
   <object id="7" name="start from bottom" type="enemy_path" x="129.333" y="477.333">
    <properties>
